@@ -6,17 +6,17 @@ This repository documents my learning journey through the **DIO + XP Inc. Cloud 
 
 ---
 
-## 📑 Table of Contents
+## 🔹 Table of Contents
 
-- [Introduction to Cloud Computing](#introduction-to-cloud-computing)
-- [Fundamentals of Generative AI](#fundamentals-of-generative-ai)
-- [Working with Prompt Engineering](#working-with-prompt-engineering)
-- [Working with GitHub Copilot](#working-with-github-copilot)
-- [Working with Cloud AI Services](#working-with-cloud-ai-services)
+- [1️⃣ - Introduction to Cloud Computing](#1️⃣-introduction-to-cloud-computing)
+- [2️⃣ - Fundamentals of Generative AI](#2️⃣-fundamentals-of-generative-ai)
+- [3️⃣ - Working with Prompt Engineering](#3️⃣-working-with-prompt-engineering)
+- [4️⃣ - Working with GitHub Copilot](#4️⃣-working-with-github-copilot)
+- [5️⃣ - Working with Cloud AI Services](#5️⃣-working-with-cloud-ai-services)
 
 ---
 
-## Introduction to Cloud Computing
+## 1️⃣-Introduction to Cloud Computing
 
 ### 🌐 Infrastructure Models
 
@@ -139,7 +139,7 @@ _Example: Development platforms, database management, app hosting._
 
 ---
 
-## Fundamentals of Generative AI
+## 2️⃣-Fundamentals of Generative AI
 
 ### Key Concepts Covered:
 - **Artificial Intelligence (AI)**: Systems designed to perform tasks that typically require human intelligence, such as learning, reasoning, and problem-solving.
@@ -186,19 +186,19 @@ Is a cloud-based service for image and video analysis, offering:
 
 ---
 
-## Working with Prompt Engineering
+## 3️⃣-Working with Prompt Engineering
 
 🚧 *Content under development...*
 
 ---
 
-## Working with GitHub Copilot
+## 4️⃣-Working with GitHub Copilot
 
 🚧 *Content under development...*
 
 ---
 
-## Working with Cloud AI Services
+## 5️⃣-Working with Cloud AI Services
 
 🚧 *Content under development...*
 
